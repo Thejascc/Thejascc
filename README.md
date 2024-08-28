@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thejascc</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">Aspiring Data Scientist | B.Tech in Computer Science | Machine Learning Enthusiast</h3>
 
 - 🔭 I’m currently working on [Shell.ai Hackathon 2023](https://www.hackerearth.com/challenges/new/competitive/shellai-hackathon-2023/)
 
